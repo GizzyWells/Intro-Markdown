@@ -20,4 +20,6 @@ public class ConvertFeet {
                 + "\nyards: " + yards);
     }
     
-
+- [ ] start work
+- [ ] finish work
+- [ ] submit on elearning
